@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Welcome to my profile
 🧑‍💻 Passionate about working with Data and Software Engineering.<br>📖 Studied Computer Science at The University of Texas at El Paso with a minor in Mathematics.<br>📈 Staying informed on industry trends, embracing evolving technologies.
 
 # 💻 Tech Stack:
